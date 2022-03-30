@@ -46,6 +46,15 @@ ul{
     color: white;
 }
 
+.grid i{
+    border: 1px solid white;
+    border-radius: 5%;
+    padding: 5%;
+    color: gray;
+}
+
+
+
 @media screen and (min-width: 768px) {
     .menu-lista{
         display: block;
@@ -103,6 +112,13 @@ ul{
 .about{
     padding: 2em;
     background-color: #1abc9c;
+}
+
+.about button{
+    border-color: white;
+    color: white;
+    font-size: 0.7em;
+    
 }
 
 .container-about{
